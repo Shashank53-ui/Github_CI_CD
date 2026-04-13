@@ -11,3 +11,8 @@ GITHUBCICD/
 ├── app.js
 ├── app.test.js
 └── package.json
+
+GITHUBCICD/
+└── .github/
+    └── workflows/
+        └── ci.yml
